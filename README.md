@@ -52,25 +52,25 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [+] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
-- [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [+] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
+- [+] [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
 
-- [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [+] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
-- [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [+] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
-- [ ] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [+] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
-- [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [+] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
-- [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- [+] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
-- [ ] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
+- [] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
 
-- [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+- [+] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
 
