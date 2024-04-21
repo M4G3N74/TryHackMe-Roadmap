@@ -1,5 +1,5 @@
 # TryHackMe Road Map
-
+#Forked Repo
 ---
 
 <br/>
@@ -10,7 +10,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ## Maintainer
 
-> **_This repository is maintained by [Al Arafat Tanin | rng70](https://github.com/rng70/). For any suggestion feel free to reach [me.](https://github.com/rng70/)_**
+> **_This repository is maintained by [Given Malambo | m4g3n74](https://github.com/m4g3n74/). For any suggestion feel free to reach [me.](t.me/m4g3n74)_**
 
 <br/>
 
